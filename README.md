@@ -1,5 +1,5 @@
 # ParserFluxNode
-Script Nodejs qui parse le flux des articles d'un media.
+Script Nodejs qui parse le flux des articles d'un media et ecrit les données dans un fichier.csv
 
 # Installation 
 1- Appuyer sur le bouton en vert et copier le lien pour cloner le projet.
